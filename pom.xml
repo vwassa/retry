@@ -97,7 +97,7 @@
         <dependency>
             <groupId>org.jetbrains.kotlin</groupId>
             <artifactId>kotlin-reflect</artifactId>
-            <version>1.2.51</version>
+            <version>${kotlin.version}</version>
             <scope>test</scope>
         </dependency>
         <!--JUnit5-->
